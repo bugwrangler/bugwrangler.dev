@@ -29,8 +29,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
   location = "Bangalore, India"
   date_start = "2015-01-01"
   date_end = "2017-05-28"
-  description = """
-Kick started null Dharamshala Chapter monthly meetups and other types of meetings like null Humla and Puliya. Responsibilities include organizing monthly events, arranging venues, inviting speakers, etc.
+  description = "null is India's largest open security community. Registered as a non-profit society in 2010, it has been active since even before that. null is about spreading information security awareness."
   """
 
 [[experience]]
