@@ -17,7 +17,7 @@ date_format = "Jan 2006"
   company_url = "https://owasp.org/www-chapter-suffolk/"
   location = "Suffolk, England"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2021-31-12"
   description = """
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.
   """
