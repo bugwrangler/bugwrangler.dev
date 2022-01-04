@@ -30,7 +30,7 @@ Working closely with development teams to provide pragmatic security advice thro
 """
 
 [[experience]]
-  title = "Cyber Security Senior Architect"
+  title = "Senior Cyber Security Architect"
   company = "Mindtree"
   company_url = "https://www.mindtree.com/"
   location = "Bangalore, India"
@@ -39,7 +39,7 @@ Working closely with development teams to provide pragmatic security advice thro
   description = """ """
 
 [[experience]]
-  title = "Automation Security Specialist - Accenture"
+  title = "Security Associate Manager - Accenture"
   company = "Client : British Telecom"
   company_url = "https://www.btplc.com/"
   location = "Ipswich, UK"
