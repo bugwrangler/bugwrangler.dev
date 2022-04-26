@@ -11,7 +11,7 @@ superuser = true
 # Role/position
 role = "Automating Security!"
 
-organizations = [ { name = "DevSecOps @ Accenture", url = "https://accenture.com" } ]
+organizations = [ { name = "DevSecOps @ Tesco", url = "https://www.tesco.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio="Fell in love with the power of software at age 17, and he is still in love. ***Abhinav Sejpal*** is a security Automation Guy, and SecDevOps ninja working at  Accenture UK. Abhinav frequently speaks and runs technical sessions at security events and conferences around the world (OWASP AppSec USA, DevSecCon, OWASP Summit, Null and OWASP Meetup). He has reported security vulnerabilities to 200+ Unique product giants all over the world including Apple, Adobe , Twitter, Linkedin, Yahoo, Superdry, Pinterest, VK etc. He enjoys finding and exploiting software vulnerabilities via reverse engineering, source code auditing, fuzzing. He researches primarily focused DevSecOps, Android , iOS Mobile App and open source project like ASVS, OWASP Mobile Top 10, Mobile Security Framework etc. Abhinav has trained over 50+ researchers and developers in information security for companies and organisations across the world."
@@ -67,7 +67,7 @@ user_groups = ["Researchers", "Visitors"]
 
 Fell in love with the power of software at age 17, and he is still in love! 
 
-***Abhinav Sejpal*** is a security Automation Guy, and SecDevOps ninja working at  Accenture UK. he frequently speaks and runs technical sessions at security events and conferences around the world (OWASP AppSec USA, DevSecCon, OWASP Summit, Null and OWASP Meetup). 
+***Abhinav Sejpal*** is a security Automation Guy, and SecDevOps ninja working at Tesco PLC. he frequently speaks and runs technical sessions at security events and conferences around the world (OWASP AppSec USA, DevSecCon, OWASP Summit, Null and OWASP Meetup). 
 
 He has reported security vulnerabilities to 200+ Unique product giants all over the world including Apple, Adobe , Twitter, Linkedin, Yahoo, Superdry, Pinterest, VK etc. He enjoys finding and exploiting software vulnerabilities via reverse engineering, source code auditing, fuzzing. He researches primarily focused DevSecOps, Android , iOS Mobile App and open source project like ASVS, OWASP Mobile Top 10, Mobile Security Framework etc. Abhinav has trained over 50+ researchers and developers in information security for companies and organisations across the world.
 

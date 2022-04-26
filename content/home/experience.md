@@ -8,22 +8,43 @@ weight = 40  # Order that this section will appear.
 title = "Experience"
 subtitle = ""
 
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Automation Security Specialist - Accenture"
+  title = "Security Engineer III"
+  company = "Tesco"
+  company_url = "https://www.tesco.com/"
+  location = "Welywyn Garden City, UK"
+  date_start = "2021-05-25"
+  date_end = ""
+  description = """
+  
+Working closely with development teams to provide pragmatic security advice through the development lifecycle, making security an integral part of the DevOps lifecycle.
+
+* Collaborating with development teams to analyze reported vulnerabilities and recommend appropriate mitigating strategies
+* Manage and oversee the Application Security Testing in CI/CD working with the Corporate Security team to ensure issues are tracked and closed
+* Educate software engineers on application security best practices and secure coding techniques.
+* Work with development teams to understand how they do things and build solutions that fit with their processes.
+* Support and train developers and testers to add security-focused tests and tooling to CICD pipelines and local development environments.
+* Working with wide variety of teams, clients and community to learn and share pragmatic security knowledge.
+
+"""
+
+[[experience]]
+  title = "Senior Cyber Security Architect"
+  company = "Mindtree"
+  company_url = "https://www.mindtree.com/"
+  location = "Bangalore, India"
+  date_start = "2021-02-15"
+  date_end = "2021-05-21"
+  description = """ """
+
+[[experience]]
+  title = "Security Associate Manager - Accenture"
   company = "Client : British Telecom"
   company_url = "https://www.btplc.com/"
   location = "Ipswich, UK"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2021-02-01"
   description = """
 Working with wide variety of teams, clients and community to learn and share pragmatic security knowledge
 
@@ -48,7 +69,7 @@ Working with wide variety of teams, clients and community to learn and share pra
   """
 
 [[experience]]
-  title = "Appec Analyst"
+  title = "Associate Manager - Accenture"
   company = "Accenture"
   company_url = "https://accenture.com"
   location = "Bangalore, India"
