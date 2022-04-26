@@ -69,7 +69,7 @@ Working with wide variety of teams, clients and community to learn and share pra
   """
 
 [[experience]]
-  title = "Appec Analyst"
+  title = "Associate Manager - Accenture"
   company = "Accenture"
   company_url = "https://accenture.com"
   location = "Bangalore, India"
